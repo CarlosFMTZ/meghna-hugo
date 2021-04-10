@@ -1,4 +1,4 @@
-baseURL = "https://pagina-demo.netlify.com"
+baseURL = "https://pagina-demo.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
